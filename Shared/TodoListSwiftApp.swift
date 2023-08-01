@@ -4,7 +4,7 @@
 import SwiftUI
 
 @main
-struct TodoListAppTutorialApp: App {
+struct TodoListSwiftApp: App {
     let persistenceController = PersistenceController.shared
 
     var body: some Scene {
